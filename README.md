@@ -26,8 +26,9 @@ Onde teve como desafio desenvolver ...
 ### 🖥 Projeto do Mõdulo *****
 
 Este projeto foi desenvolvido durante o módulo xxx na trybe, referente ao bloco XX.
+
 ## 🖼 Screenshot das telas da aplicação <br/>
-- Exemplo. <br/>
+<img src="https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="250px" />
 
  # 👷 Como rodar
 
