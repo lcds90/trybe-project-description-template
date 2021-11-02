@@ -21,14 +21,22 @@ Onde teve como desafio desenvolver ...
 - Tecnologia 3
 - Tecnologia 4
 
-* * *
 
-### 🖥 Projeto do Mõdulo *****
+## 🖥 Projeto do Mõdulo *****
 
 Este projeto foi desenvolvido durante o módulo xxx na trybe, referente ao bloco XX.
 
-## 🖼 Screenshot das telas da aplicação <br/>
+## 🖼 Screenshot das telas da aplicação
+
+<div align="center">
+  
 <img src="https://s3.amazonaws.com/gupy5/production/companies/1673/career/2546/images/2020-12-07_13-18_logo.png" width="250px" />
+  
+</div>
+  
+<!---
+// Explique o passo para a execução do seu projeto
+-->
 
  # 👷 Como rodar
 
@@ -38,10 +46,15 @@ git clone https://github.com/user/project
 
 # Entrar numa IDE de sua preferência 
 
-# Executar o servidor ou usar um puglin que criar um servidor
+# Executar `npm install` para instalação de depedências
+
+# Executar `npm start` para rodar a aplicação em um servidor local
 
 ```
 
+<!---
+// Caso deseje que contribuam referente ao seu projeto
+-->
 
 ## 🤔 Como contribuir <br/>
 
